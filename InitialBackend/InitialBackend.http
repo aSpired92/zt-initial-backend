@@ -1,0 +1,10 @@
+﻿@InitialBackend_HostAddress = https://localhost:7282
+
+POST {{InitialBackend_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+  //ProductDto
+}
+
+###
